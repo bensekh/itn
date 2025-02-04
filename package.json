@@ -1,0 +1,16 @@
+{
+  "name": "itn",
+  "version": "0.0.1",
+  "description": "Customizable unsigned integer encoder and decoder",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "integer",
+    "base-10",
+    "base-n"
+  ],
+  "author": "Muhammad Bensekh Bugis",
+  "license": "ISC"
+}
